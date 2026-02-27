@@ -1,0 +1,486 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "1.0.0",
+  "name": "Together Epoch",
+  "summary": "正式版 1.19.2, Forge 43.5.2, Authlib 验证",
+  "files": [
+    {
+      "path": "mods/architectury-6.6.92-forge.jar",
+      "hashes": {
+        "sha1": "16fad847d50aa4363180c73afb782e76d53f3656",
+        "sha512": "1c8c33cb52713f1aa20a68f844a8dc11eaf887c2b401f9a336054cfaee84d5e4fae4610aae342b75624bd33ad4b6a868a62f470144bfaf3fc9b78dd273700b34"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/96L7fC9l/architectury-6.6.92-forge.jar"
+      ],
+      "fileSize": 559099
+    },
+    {
+      "path": "mods/AutoRegLib-1.8.2-55.jar",
+      "hashes": {
+        "sha1": "342cac5511fe7009a260bc0a25fee777179ba530",
+        "sha512": "3673c1b43dfc666ad5ee276d7f4653642111c3b0f75d084666fdaa1c860b6edf9e9e907763b507dab679f7022acd5a7125be4031a7e9e7e486ef1a4d9b0ad0b2"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NvZ9ZhwE/versions/pwEa2yJ2/AutoRegLib-1.8.2-55.jar"
+      ],
+      "fileSize": 45741
+    },
+    {
+      "path": "mods/cloth-config-8.3.134-forge.jar",
+      "hashes": {
+        "sha1": "e2a3a4e9eeae37b7e79aa8e72bb2834675fe4fe5",
+        "sha512": "607d0bd647ce3499fe8ab57caeb962862ca22d2b891b477e18d76e0900e6103e61e092826d8f8e104143920fd36a9a849b6d87dc677f248e08ac708a4b947e54"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/qqCHdFw2/cloth-config-8.3.134-forge.jar"
+      ],
+      "fileSize": 1176412
+    },
+    {
+      "path": "mods/CorgiLib-forge-1.19.2-1.0.0.34.jar",
+      "hashes": {
+        "sha1": "9006deecb4c35a0f137ebfea1fa1a1295615f398",
+        "sha512": "e2c37e1294461e8e3be691c38ba0fed3d10630d110226a74af41a160392af7592fdd77eb436f80a052b6b7f8d33ec4dea020a10dff3b249d9c1d8be101ab9f45"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ziOp6EO8/versions/ja9yy4N9/CorgiLib-forge-1.19.2-1.0.0.34.jar"
+      ],
+      "fileSize": 285958
+    },
+    {
+      "path": "mods/edf-remastered-4.3.jar",
+      "hashes": {
+        "sha1": "80d348c609b4ee11092f15a3208903bded47c56b",
+        "sha512": "a08f40e37344c5608ac31e67758107ee42a637140f94d0feb8d1920c19b4ab1eebc40d5bcc3e538f8404401029efdc6986ced158feb4e72bb48a561f7f376fa5"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/HQsBdHGd/versions/sJX8dbua/edf-remastered-4.3.jar"
+      ],
+      "fileSize": 47431624
+    },
+    {
+      "path": "mods/embeddium-0.3.18.1+mc1.19.2.jar",
+      "hashes": {
+        "sha1": "e5e2884a8700251f85573bd412cacd13229045f9",
+        "sha512": "33d88ab9f2bb73801d53461d0b7f7149ddae531373b4746c05259a4608e3115d7966a8643bac4c76e66a1cbc39d6f3a4929bdd95237bb79a6274ac16c6f53b46"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/sk9rgfiA/versions/AYqEbec0/embeddium-0.3.18.1%2Bmc1.19.2.jar"
+      ],
+      "fileSize": 1578835
+    },
+    {
+      "path": "mods/geckolib-forge-1.19-3.1.40.jar",
+      "hashes": {
+        "sha1": "92a447e19afe1a23a33219f5428b2198a58094f4",
+        "sha512": "b61c8d9ee01b13bd69bd66378124839a858bdcb25ee3c1c3c415c5f3784e8734943fca46ccebb38465f50ed8c627de75adb931491dbff2aeb9f441dfe2b02985"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8BmcQJ2H/versions/lxzmD9V4/geckolib-forge-1.19-3.1.40.jar"
+      ],
+      "fileSize": 2938383
+    },
+    {
+      "path": "mods/InsaneLib-1.7.5-mc1.19.2.jar",
+      "hashes": {
+        "sha1": "3d2b3e3547ceae2d86baf6bd7d3296f8f12da286",
+        "sha512": "3c4a926d2d3399cd289fca3b1553a679e16ae86fd33c95b04b8280272a0c95bd9ba8d6ec6d065ce6c1ff8eca72a466f41c9cb302730b05243c3c25e26b212ad9"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/USZyvOJq/versions/UZWZIc1c/InsaneLib-1.7.5-mc1.19.2.jar"
+      ],
+      "fileSize": 73851
+    },
+    {
+      "path": "mods/kotlinforforge-3.12.0-all.jar",
+      "hashes": {
+        "sha1": "cf09c1be6d8950e3f7551f02f141818aee5a3ec0",
+        "sha512": "15e6e2e88ca8ea4df730a20e99e131d266b27822299d464f004bcbc0a3f15c3275d25e3edc4397ef0a6584dd1d6161e9199fa8369f1581abb05ec6c74edc8cc1"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ordsPcFz/versions/NBn3sEQk/kotlinforforge-3.12.0-all.jar"
+      ],
+      "fileSize": 7365976
+    },
+    {
+      "path": "mods/MutantMonsters-v4.0.6-1.19.2-Forge.jar",
+      "hashes": {
+        "sha1": "007fa9422c96aad74b8b0edc5a4ee36fcc5fc324",
+        "sha512": "d6c625b7e50ecc0cefb5c6e7d0fd0a8f2f10af45e6b97a419e3e8d946aefb2f011018cd40dcfa2b04de55a58195922eabead299a41715a36e51542a06ccbac8d"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/derP0ten/versions/CkbS2PLp/MutantMonsters-v4.0.6-1.19.2-Forge.jar"
+      ],
+      "fileSize": 1337216
+    },
+    {
+      "path": "mods/oculus-mc1.19.2-1.6.9a.jar",
+      "hashes": {
+        "sha1": "be4e14cb03ba5c931f8b73323ee8893ff5a2dd4b",
+        "sha512": "b59fad480777d0d4d9f51f9eb0d148a9a0776c76069b1e6211371c266ab3ac516d8f2c4e0bb223bce73e73c983072c700a241bde82be2cffcb9252b1db598c8a"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GchcoXML/versions/Mw8aFpWF/oculus-mc1.19.2-1.6.9a.jar"
+      ],
+      "fileSize": 3503720
+    },
+    {
+      "path": "mods/paucal-forge-1.19.2-0.5.0.jar",
+      "hashes": {
+        "sha1": "f114fa53dab10adafcec639a9d8aa753d739078b",
+        "sha512": "0142ba6fed7628f7820b971e870b5e8080c0e0dea7797307981c7ba5b1558aea630893df1d81b380c834317678db6549e3b8531b818ec8793fb0b0d7ec9d45db"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/TZo2wHFe/versions/kClFVbTP/paucal-forge-1.19.2-0.5.0.jar"
+      ],
+      "fileSize": 477380
+    },
+    {
+      "path": "mods/PuzzlesLib-v4.4.3-1.19.2-Forge.jar",
+      "hashes": {
+        "sha1": "ad531f214a2def16ff670cc94c0ea2ab40773b09",
+        "sha512": "a17fae22581d7a2c6947ba6fc58b38f34197e22aec430dbaa6eee7104cf891b9e9abbea5a322c04b1f3f1df04fa7462f603ca5c2d7ad3657198cc3989fda7bd2"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/QAGBst4M/versions/UbCrBSit/PuzzlesLib-v4.4.3-1.19.2-Forge.jar"
+      ],
+      "fileSize": 395272
+    },
+    {
+      "path": "mods/simplesoulslikestatuseffects_0.0.3_1.19.2.jar",
+      "hashes": {
+        "sha1": "51cdabca8981ab1a2ec5c4b62238b736930e54fa",
+        "sha512": "090398af5e51a998309ed68f751e1f2a9bfa8914dcd45b3e02d5756217413c5b4f10e17e317901902da31fd16965b719a81367b95a399b8972de22ddaf1e6c2e"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GYoEDP37/versions/zDTUDnob/simplesoulslikestatuseffects_0.0.3_1.19.2.jar"
+      ],
+      "fileSize": 304726
+    },
+    {
+      "path": "mods/TerraBlender-forge-1.19.2-2.0.1.166.jar",
+      "hashes": {
+        "sha1": "655f0fe28df282a2f4a14a75f059485ce1c96e46",
+        "sha512": "e5c01b28420d4debc16caa7902e152287296e5496435a71f0b9370471f1984ab01cde2c245f358d7933b40c9d768bff696c966b693bf043ed6566004320ecc6b"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/kkmrDlKT/versions/qpCqqA93/TerraBlender-forge-1.19.2-2.0.1.166.jar"
+      ],
+      "fileSize": 96810
+    },
+    {
+      "path": "mods/Terralith_1.19.3_v2.3.12.jar",
+      "hashes": {
+        "sha1": "746d0a2b3347d7821d6d81ece69ab07cdc90a8f9",
+        "sha512": "2a9b0f6496aee6ad25888ab4b463b5189eb06030c1b73dc70601abbfb053d9f7af140dfea908bf4011fcf9b50e8d1d4f0e42db1650ee40db56bcb3fef38b8fd1"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8oi3bsk5/versions/FOe2l0tx/Terralith_1.19.3_v2.3.12.jar"
+      ],
+      "fileSize": 2990344
+    },
+    {
+      "path": "mods/YungsApi-1.19.2-Forge-3.8.10.jar",
+      "hashes": {
+        "sha1": "bdfab32b5bba716dbd969b2a4c34d65c84537d8c",
+        "sha512": "9e19114c7d675a47173f34f6c1c075e573fa54c4ca89c3eb480d3cb3e80bac343491f2829b2dec148e9e0abdaeb7fb5fb2165ea6919f9bc1bb68e757b3d58f7e"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ua7DFN59/versions/L5GqhLVE/YungsApi-1.19.2-Forge-3.8.10.jar"
+      ],
+      "fileSize": 293336
+    },
+    {
+      "path": "mods/[JEI物品管理器] jei-1.19.2-forge-11.8.1.1034.jar",
+      "hashes": {
+        "sha1": "ede94c970271f169a89269cc3c10f88c22328052",
+        "sha512": "69318101ad0286d02f046b5b3e449c1490d37a6256b673132bdc5df577ccafad2cdc1c9d7b2be2f3d1fd0a16b25d6fe3c209b0085544aae58b4f8bd222ec1a5d"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/u6dRKJwZ/versions/LIkb8oaL/jei-1.19.2-forge-11.8.1.1034.jar"
+      ],
+      "fileSize": 1177872
+    },
+    {
+      "path": "mods/[Xaero的小地图] xaerominimap-forge-1.19.2-25.3.10.jar",
+      "hashes": {
+        "sha1": "7d2b7f83e44e2fd8cbbda91fb115c1bcc5046d34",
+        "sha512": "b61e373523968c19a0b1d2481b1b0ee97708f5e1d3db6a8169fe43b9995dcad5a8c1e3bb200463bdd6cd1002cfc28a89c6299e42e247f2a895b7f028dd83220b"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1bokaNcj/versions/dp3BhGn8/xaerominimap-forge-1.19.2-25.3.10.jar"
+      ],
+      "fileSize": 2124282
+    },
+    {
+      "path": "mods/[YUNG 的下界要塞优化] YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar",
+      "hashes": {
+        "sha1": "ff51cb8ccbe1d40054c2e2296a55db6af2d43108",
+        "sha512": "4302df046c60c6048369fd022c6cc30a372800ff255feaf40f72a6d833fdcdcf1885bf290fd9c3d6c5e126d77e05cdb3e6b024cd352e4922c06cedabd1c66759"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Z2mXHnxP/versions/9iPMgrMe/YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar"
+      ],
+      "fileSize": 820449
+    },
+    {
+      "path": "mods/[YUNG 的地牢优化] YungsBetterDungeons-1.19.2-Forge-3.2.2.jar",
+      "hashes": {
+        "sha1": "19b6a62a62343d52c2855eabe3634ce44fb6f81e",
+        "sha512": "4f3dd13b9d712a2ee118a07b3e15c6e46f68b828dc7f1b2e1ccdc491c6468f6a49e8b6a59e96eea523088102dba61a01fd59b1be2b8512c897ae03b472dc96f7"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/o1C1Dkj5/versions/vhbhPrpZ/YungsBetterDungeons-1.19.2-Forge-3.2.2.jar"
+      ],
+      "fileSize": 997998
+    },
+    {
+      "path": "mods/[YUNG 的海底神殿优化] YungsBetterOceanMonuments-1.19.2-Forge-2.1.1.jar",
+      "hashes": {
+        "sha1": "139e12939fbbf62024512917c9c07ce9aec9dc32",
+        "sha512": "6765e705aa0726c65bfd7842ecab084b257b98390c298e01b757f212515d78ae431ebe11eacab7b72db6bbb22bd11a67794166f1879221788c91a08b8199279f"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/3dT9sgt4/versions/Uehc7tGO/YungsBetterOceanMonuments-1.19.2-Forge-2.1.1.jar"
+      ],
+      "fileSize": 1510053
+    },
+    {
+      "path": "mods/[YUNG 的矿井优化] YungsBetterMineshafts-1.19.2-Forge-3.2.1.jar",
+      "hashes": {
+        "sha1": "64ea80f99803f11a2329dadacddab2519bfd9dc3",
+        "sha512": "bbdc71426874b4d8113b2f811db8a0943c81cf37b4812a99fc49fbb3dc2345c88b8952851f5bbd2410a5fcd293f9edacc53e1e21fe444fb5d49235ee2c6fe227"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/HjmxVlSr/versions/K4G8SGWy/YungsBetterMineshafts-1.19.2-Forge-3.2.1.jar"
+      ],
+      "fileSize": 273478
+    },
+    {
+      "path": "mods/[YUNG 的要塞优化] YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar",
+      "hashes": {
+        "sha1": "134bf9c0db1b41165728b664c4649f842565fc48",
+        "sha512": "aa8434e8ca725a1ec0b8ab9d054c5f8592e90313e3fcde47f309860928ab8d1cf0710807fb0aa3586768693c8acf886af5355526dafc50bbbfdd27e5b6c4925f"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/kidLKymU/versions/aW1VWzje/YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar"
+      ],
+      "fileSize": 409767
+    },
+    {
+      "path": "mods/[YUNG的丛林神庙优化] YungsBetterJungleTemples-1.19.2-Forge-1.0.1.jar",
+      "hashes": {
+        "sha1": "a2ea85d9a87331bcf9c65fb35092a01d3a74d071",
+        "sha512": "29b9c669f9b5b5bc8d26f4f1a923edb59f7bccfedd8556a3fbd06bd4c5993dee469b7744a0ad6156cc92b1f5a9bee0b2c904abc89f05c163949e912aa2359899"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/z9Ve58Ih/versions/REe7auh2/YungsBetterJungleTemples-1.19.2-Forge-1.0.1.jar"
+      ],
+      "fileSize": 1268117
+    },
+    {
+      "path": "mods/[YUNG的末地岛屿优化] YungsBetterEndIsland-1.19.2-Forge-1.0.jar",
+      "hashes": {
+        "sha1": "20d6905ae07c56b8da267b7c8fe126d7a8892693",
+        "sha512": "78ffddeccbb7575c4dfe388dc25efcd25f75fbfa3e394b7a8329fc047048f7c4dd5adab8ecb850b419482e407d1bf0b27e41c654079f6592c5ec6c97909e9568"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/2BwBOmBQ/versions/AX0UDNyo/YungsBetterEndIsland-1.19.2-Forge-1.0.jar"
+      ],
+      "fileSize": 636740
+    },
+    {
+      "path": "mods/[YUNG的沙漠神殿优化] YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar",
+      "hashes": {
+        "sha1": "3d36e940fa14e45dd1e722311ca6f40a75edef78",
+        "sha512": "b50fb2052b410b75321a156cea19edba789fda384bb7d9dbfd3f11f6ad2e8a8ab560541356c0cdf8f13702ebfbf2941741853e522dbad676dbe10cd1b09ed1ed"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XNlO7sBv/versions/4szLNMTj/YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar"
+      ],
+      "fileSize": 986299
+    },
+    {
+      "path": "mods/[YUNG的沼泽小屋优化] YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar",
+      "hashes": {
+        "sha1": "c1a2d60217e127d5cf6683bae6b3dfa5c1afa284",
+        "sha512": "a2e99a79d3a8c3479a77eb825e500fee559deffc6535af9a2bae506f5292bfe191014610efa2926adf8f83e425055a1836b730e57592376aea07ffa46e09bd7a"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/t5FRdP87/versions/rAwSL8Wn/YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar"
+      ],
+      "fileSize": 241850
+    },
+    {
+      "path": "mods/[你将去的生物群系] Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar",
+      "hashes": {
+        "sha1": "cc9ed11c1685f61e355d47181df9a5cb1ada9b58",
+        "sha512": "e2552efe135026b2312755cf6b527b7281a5df294ee4a565d91504655c0a9866a892a7cfd5d01171f3713b00bf84cddcfc6b93b8d615c14630b6eb5513f7d4f4"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uE1WpIAk/versions/ImjAT2Uf/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.1.6.jar"
+      ],
+      "fileSize": 37211656
+    },
+    {
+      "path": "mods/[农夫乐事] FarmersDelight-1.19.2-1.2.4.jar",
+      "hashes": {
+        "sha1": "7474aaf58f3001455db9426d4bf36bc3e80455f1",
+        "sha512": "daf096361c36f91970ed88b199d744ee52e4a29ed123b9792736106d45f98a1b6e61d15942e2cd64b11277a9e5b9ff4db61c993dcff685f480f94b21f3170300"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/R2OftAxM/versions/rFTKVUtq/FarmersDelight-1.19.2-1.2.4.jar"
+      ],
+      "fileSize": 2769499
+    },
+    {
+      "path": "mods/[史诗战斗] epicfight-forge-19.5.26-1.19.2.jar",
+      "hashes": {
+        "sha1": "15b2fd105046a6d3994bcbc7bff8c066608cce42",
+        "sha512": "104750bf37abc29515b97a4c30b98316c1b6dabb6f29c4ea287984ae5cafb740b5ea7ff018e6cc851b1b6ac71d326dab71cd8f57fb1497fb496f65e0f47b20c8"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/UICaPHaU/epicfight-forge-19.5.26-1.19.2.jar"
+      ],
+      "fileSize": 5776680
+    },
+    {
+      "path": "mods/[咒法学] hexcasting-forge-1.19.2-0.10.3.jar",
+      "hashes": {
+        "sha1": "f72b6e18d455798634b685b71f0a8e207e887456",
+        "sha512": "5b48c18916ffd8552bedd8ed04164369daa1b8a9ce730961f7cdaf2132f6025e52d9d7ec3103ff988fdd684b3c2277245d4854c71d66d02f463af2857941357b"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nTW3yKrm/versions/1a7mtyAU/hexcasting-forge-1.19.2-0.10.3.jar"
+      ],
+      "fileSize": 2906265
+    },
+    {
+      "path": "mods/[夸克] Quark-3.4-418.jar",
+      "hashes": {
+        "sha1": "3d4bf7bf166b3f30f74100e91d6760fbd93e660f",
+        "sha512": "716a0b27b62c8870aceb11ef3c5a44d479d700b14163e6f5e52d3e4d380659e49d07971d4502f68f20fc0477cb5bb94f69abab0ca862b6952d9e58985b7ca953"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qnQsVE2z/versions/8po5DGR8/Quark-3.4-418.jar"
+      ],
+      "fileSize": 15024651
+    },
+    {
+      "path": "mods/[实体渲染机制优化] entityculling-forge-1.6.1-mc1.19.2.jar",
+      "hashes": {
+        "sha1": "2b2545ea2e203b25d9b33be1e5b8aea38eaa90f2",
+        "sha512": "ecd71617e1b72cfcfade5c61b121e67b3c5f26a43a9521122209f0242e580020916202665517f4b95a4a5b84794d80d61009c6333c1e1a49e180de9da21dc881"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/WR6z6MYC/entityculling-forge-1.6.1-mc1.19.2.jar"
+      ],
+      "fileSize": 60289
+    },
+    {
+      "path": "mods/[帕秋莉手册] Patchouli-1.19.2-77.jar",
+      "hashes": {
+        "sha1": "cfccf39046a5d375647c6b85d8191b76bbd5f9d6",
+        "sha512": "0be48af1a47b76beb5429740e380f8ae215193e1df95a9a87ff038c2fd820de9c5c01dac94618b624482fb1421698bfb8ec811401c252a0c168f1b07abaa9eb8"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nU0bVIaL/versions/62ztr7HA/Patchouli-1.19.2-77.jar"
+      ],
+      "fileSize": 635370
+    },
+    {
+      "path": "mods/[应用能源2] appliedenergistics2-forge-12.9.12.jar",
+      "hashes": {
+        "sha1": "241f7c99e2c20dbdbb034197fc283c51fc03cf74",
+        "sha512": "21c86d790ea8ff5c30db40014dddf44e8caf0f585eba8cfb13eec8b36e547a9a633e358bd99a610065f1458abfe8aa0cac771887e566655ce18c92598daee021"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XxWD5pD3/versions/U8JDlAX0/appliedenergistics2-forge-12.9.12.jar"
+      ],
+      "fileSize": 9931625
+    },
+    {
+      "path": "mods/[星光] starlight-1.1.1+forge.cf5b10b.jar",
+      "hashes": {
+        "sha1": "3d80b848c966841deeeba70305e38a29b7e3788d",
+        "sha512": "679598564accbf0b9adb9bf947fe1c2b4dd9a90a6ce3f5013ab52d5f9411ea9f0c5865c20e94f59c4a02d83b5ab8b9368eb26c13da996960074c9688f8d24f56"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/iRfIGC1s/versions/1.1.1%2B1.19/starlight-1.1.1%2Bforge.cf5b10b.jar"
+      ],
+      "fileSize": 110720
+    },
+    {
+      "path": "mods/[机械动力] create-1.19.2-0.5.1.i.jar",
+      "hashes": {
+        "sha1": "3df3c0df1b675d7230a7303e37c53c9fdc3d2294",
+        "sha512": "12df2737a9f118966a880b7d3929607deaf00a6ae23d97bf5ed060b76bd2b438a5a8f04ced42a49312e5d6a1790149116e113e5120069d13a544801e30dc2da4"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/LNytGWDc/versions/tJVykywJ/create-1.19.2-0.5.1.i.jar"
+      ],
+      "fileSize": 15531765
+    },
+    {
+      "path": "mods/[玉 🔍] Jade-1.19.1-forge-8.9.2.jar",
+      "hashes": {
+        "sha1": "2b56ea1b7ee6e20cea675427d8c87f115a44fcff",
+        "sha512": "6338ff34f3f5860986ea52fbf35e884a410aa27548f64b7a00e73f15f34be1f6c27f8cd58bd16d4b5012776fba41a5745c7e06f81098757c09aa0aee7030bdac"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nvQzSEkH/versions/kp0HjPre/Jade-1.19.1-forge-8.9.2.jar"
+      ],
+      "fileSize": 429175
+    },
+    {
+      "path": "mods/[苹果皮] appleskin-forge-mc1.19-2.4.2.jar",
+      "hashes": {
+        "sha1": "20f4e36e5c78bdef303683ccb96d77b2036da3ce",
+        "sha512": "c564c6772cf42b4d07141baf334a95176b66238c7b500324595e53f1a45cb0e0a181599e3b5a3b3654a7a0d229c3f3a8d88374005cfb89a56264dcc2898309be"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.19-2.4.2/appleskin-forge-mc1.19-2.4.2.jar"
+      ],
+      "fileSize": 46991
+    },
+    {
+      "path": "mods/[通用拼音搜索] jecharacters-1.19.2-forge-4.5.13.jar",
+      "hashes": {
+        "sha1": "36bd18c7aae7f81c19599ce9302b748ada312315",
+        "sha512": "ad8e05e1edc1d6fd208d0d762c47a88e94eaa2257a2216cc256098c1c2154b734c9c53b5ad2057313bd75c3d8a9efc7dbb06423b80fdfc67c604587326f6f591"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/I7k4B65h/versions/duYUoOqb/jecharacters-1.19.2-forge-4.5.13.jar"
+      ],
+      "fileSize": 260036
+    },
+    {
+      "path": "mods/[铁氧体磁芯] ferritecore-5.0.3-forge.jar",
+      "hashes": {
+        "sha1": "59245ec84ca1e3639237f5a04fe6f7556a9ec2bb",
+        "sha512": "dd553aad3900f01a9924e906516ec6a74e671319e091bd9b37974e2cf11b00d5cfb1faa6a883c5c413d966696ed5e1d987de3d9cbe862ae9f13f48463d0f16b7"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/CtXsUUz6/ferritecore-5.0.3-forge.jar"
+      ],
+      "fileSize": 116824
+    },
+    {
+      "path": "mods/[鼠标手势] MouseTweaks-forge-mc1.19-2.23.jar",
+      "hashes": {
+        "sha1": "9d6e76a331c0598edb6293dc658af2d1672864b4",
+        "sha512": "ba7c37155f252ee10176d2209cd168a80dd9cecb999e815096f381ff8662bfd3c903c06619bb836c2ed5d1771f7de7bf3be0d7cf4d0ea1de989a92517a4b7b93"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/aC3cM3Vq/versions/1.19-2.23-forge/MouseTweaks-forge-mc1.19-2.23.jar"
+      ],
+      "fileSize": 75983
+    }
+  ],
+  "dependencies": {
+    "minecraft": "1.19.2",
+    "forge": "43.5.2"
+  }
+}
