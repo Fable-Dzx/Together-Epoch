@@ -1,0 +1,11 @@
+{
+    "id": "together-epoch",
+    "platforms": {
+        "modrinth": "together-epoch"
+    },
+    "modid": "together-epoch",
+    "owners": [ "Fable-Dzx" ],
+    "versions": {
+        "1.19.2": "main"
+    }
+}
